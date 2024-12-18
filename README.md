@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Jacob, a passionate developer with experience in various technologies.<br><br>- 🔭 I’m currently in my last semester in school for web development.<br>- 📚 I'm currently learning Typescript and PHP.<br>- 💼 Running a side-business selling and creating Minecraft plugins.<br>- 💬 Feel free to ask me any questions in my tech stack.<br>- ⚡ In my free time, I play Minecraft, write, grow in God's word, and spend time with friends/family.</p>
+<p align="left">I'm Jacob, a passionate developer with experience in various technologies.<br><br>- 🔭 I’m currently in my last semester in school for web development.<br>- 📚 I'm currently learning ReactJS & SQL.<br>- 💼 Running a side-business selling and creating Minecraft plugins.<br>- 💬 Feel free to ask me any questions in my tech stack.<br>- ⚡ In my free time, I play Minecraft, write, grow in God's word, and spend time with friends/family.</p>
 
 ###
 
