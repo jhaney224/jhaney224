@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Jacob, a passionate developer with experience in various technologies.<br><br>- 🔭 I’m a recent graduate from a college web development certification program.<br>- 📚 I'm currently job searching.<br>- 💼 Running a side-business selling and creating Minecraft plugins.<br>- 💬 Feel free to ask me any questions in my tech stack.<br>- ⚡ In my free time, I play Minecraft, write, grow in God's word, and spend time with friends/family.</p>
+<p align="left">I'm Jacob, a passionate developer with experience in various technologies.<br><br>- 🔭 I’m a recent graduate from a college web development certification program.<br>- 📚 I'm currently job searching.<br>- 💼 Running a side business providing high-quality Minecraft services to clients.<br>- 💬 Feel free to ask me any questions regarding things in my tech stack.<br>- ⚡ In my free time, I play Minecraft, write, grow in God's word, and spend time with friends/family.</p>
 
 ###
 
@@ -48,10 +48,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="reactjs logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" height="40" alt="yaml logo"  />
 </div>
 
 ###
@@ -78,6 +84,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind css logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm wordmark logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rockylinux/rockylinux-original.svg" height="40" alt="rocky linux logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" alt="vitejs logo" />
 </div>
 
 ###
