@@ -29,7 +29,7 @@
 <p align="left">I'm Jacob, an entry-level IT professional and aspiring developer with experience in various technologies.<br><br>
   - 🔭 I’m a recent graduate from a college web development certification program.<br>
   - 📚 I'm currently job searching.<br>
-  - 💼 Built and deployed a project providing high-quality Minecraft services to clients.<br>
+  - 💼 Built and deployed a platform providing high-quality Minecraft services to clients.<br>
   - 💬 Feel free to ask me any questions regarding things in my skill set.<br>
   - ⚡ In my free time, I play Minecraft, write, grow in God's word, and spend time with friends/family.</p>
 
